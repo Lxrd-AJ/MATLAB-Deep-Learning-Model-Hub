@@ -10,6 +10,7 @@
             </repository>
             <key>pretrained-yolo-v4</key>
             <description>You Only Look Once v4</description>
+            <srcRoot>src</srcRoot>
             <helperFunction>
                 <functionName>helper.downloadPretrainedYOLOv4</functionName>
                 <functionParameterToggle>
