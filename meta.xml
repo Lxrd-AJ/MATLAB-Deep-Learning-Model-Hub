@@ -5,6 +5,7 @@
             <name>YOLOv4</name>
             <category>Object Detection</category>
             <repository>https://github.com/matlab-deep-learning/pretrained-yolo-v4</repository>
+            <key>pretrained-yolo-v4</key>
             <description>You Only Look Once v4</description>
             <helperFunction>
                 <functionName>helper.downloadPretrainedYOLOv4</functionName>
@@ -19,6 +20,7 @@
             <name>DeepLabV3+</name>
             <category>Semantic Segmentation</category>
             <repository>https://github.com/matlab-deep-learning/pretrained-deeplabv3plus</repository>
+            <key>pretrained-deeplabv3plus</key>
             <description>DeepLab V3+</description>
             <helperFunction>
                 <functionName>helper.downloadPretrainedDeepLabv3Plus</functionName>
