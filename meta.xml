@@ -5,14 +5,14 @@
             <name>YOLOv4</name>
             <category>Object Detection</category>
             <repository>
-                <git>https://github.com/matlab-deep-learning/pretrained-yolo-v4</git>
-                <zip>https://github.com/matlab-deep-learning/pretrained-yolo-v4/archive/main.zip</zip>
+                <git>https://github.com/Lxrd-AJ/pretrained-yolo-v4</git>
+                <zip>https://github.com/Lxrd-AJ/pretrained-yolo-v4/archive/main.zip</zip>
             </repository>
             <key>pretrained-yolo-v4</key>
             <description>You Only Look Once v4</description>
             <srcRoot>src</srcRoot>
             <helperFunction>
-                <functionName>helper.downloadPretrainedYOLOv4</functionName>
+                <functionName>helper.dndDownloadPretrainedYOLOv4</functionName>
                 <functionParameterToggle>
                     <item>YOLOv4-coco</item>
                     <item>YOLOv4-tiny-coco</item>
