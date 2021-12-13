@@ -1,0 +1,17 @@
+<meta>
+    <name>Deep Learning Model Hub</name>
+    <models>
+        <model>
+            <name>YOLOv4</name>
+            <repository>https://github.com/matlab-deep-learning/pretrained-yolo-v4</repository>
+            <description>You Only Look Once v4</description>
+            <helperFunction>
+                <functionName>helper.downloadPretrainedYOLOv4</functionName>
+                <functionParameterToggle>
+                    <item>YOLOv4-coco</item>
+                    <item>YOLOv4-tiny-coco</item>
+                </functionParameterToggle>
+            </helperFunction>
+        </model>
+    </models>
+</meta>
