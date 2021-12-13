@@ -24,13 +24,13 @@
             <name>DeepLabV3+</name>
             <category>Semantic Segmentation</category>
             <repository>
-                <git>https://github.com/matlab-deep-learning/pretrained-deeplabv3plus</git>
-                <zip>https://github.com/matlab-deep-learning/pretrained-deeplabv3plus/archive/main.zip</zip>
+                <git>https://github.com/Lxrd-AJ/pretrained-deeplabv3plus</git>
+                <zip>https://github.com/Lxrd-AJ/pretrained-deeplabv3plus/archive/main.zip</zip>
             </repository>
             <key>pretrained-deeplabv3plus</key>
             <description>DeepLab V3+</description>
             <helperFunction>
-                <functionName>helper.downloadPretrainedDeepLabv3Plus</functionName>
+                <functionName>helper.dndDownloadPretrainedDeepLabv3Plus</functionName>
             </helperFunction>
             <version>R2020a</version>
         </model>
