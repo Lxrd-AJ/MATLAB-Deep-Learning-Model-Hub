@@ -14,8 +14,8 @@
             <helperFunction>
                 <functionName>helper.dndDownloadPretrainedYOLOv4</functionName>
                 <functionParameterToggle>
-                    <item>YOLOv4-coco</item>
                     <item>YOLOv4-tiny-coco</item>
+                    <item>YOLOv4-coco</item>
                 </functionParameterToggle>
             </helperFunction>
             <version>R2020a</version>
